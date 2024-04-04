@@ -83,4 +83,5 @@ The models and results are included here:
 We optimized the Random Forest Classifier to a max depth of 4.
 We optimized the KNN n_neighbors to 13.
 
-Finally, we used the X_test and y_test data to determine the ROI if we used the Random Forest (max_depth =4) model. To do that we had to reconstruct the test data frame by adding the target variable ‘trade’. Then we shifted the SPY close data back to its original position so that we could calculate the change in SPY over the day. Because of the shift one data row was sacrificed. ![image](https://github.com/GuyInFreezer/project-2/assets/152115284/69a3d8a3-cca4-4c60-8a2f-99df678ea86e)
+Finally, we used the X_test and y_test data to determine the ROI if we used the Random Forest (max_depth =4) model. To do that we had to reconstruct the test data frame by adding the target variable ‘trade’. Then we shifted the SPY close data back to its original position so that we could calculate the change in SPY over the day. Because of the shift one data row was sacrificed.
+![image](https://github.com/GuyInFreezer/project-2/assets/152115284/69a3d8a3-cca4-4c60-8a2f-99df678ea86e)
