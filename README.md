@@ -32,6 +32,7 @@ We are ignoring the fee to buy and sell the contract.
 
 We are selling At-the-Money CCs; thus, if SPY=$520.25, we will sell the option contract at the $521 strike price (~$1.00). It doesn’t seem like much, but if you sell the CC every day, it adds up.
 
+
 The person who is selling the CCs never loses money on the CC. Since he/she still owns the stock, he/she will lose less on a down-market day and make slightly less on an up-market day. Basically, the owner of the stock is hoping for a dull day in the market.
 
 The data was obtained from Polygon.io.
